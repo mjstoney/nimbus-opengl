@@ -1,0 +1,7 @@
+1. Matrix operations
+	- implement simple transform test
+2. process keyboard input for movement using matrices -> shaders
+		- model matrix
+		- view matrix
+		- projection matrix
+3. mesh loader / mesh manager
